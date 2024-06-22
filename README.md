@@ -13,7 +13,7 @@
  
 
  
- 🌱 I’m currently learning **java,Selenium,automation testing**
+ 🌱 I’m currently learning **java,Selenium,automation testing,postman,API testing**
 
 
  
