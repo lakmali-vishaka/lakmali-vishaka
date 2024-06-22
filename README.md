@@ -34,10 +34,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma,intelij" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,figma,intellij" /><br>
 <img src="https://skillicons.dev/icons?i=jira,github,git" /><br>
 <img src="https://skillicons.dev/icons?i=react,html,css,java,c"/><br>
 <img src="https://skillicons.dev/icons?i=selenium,postman"/>
+
 
 
 <br/>
