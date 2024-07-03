@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+vishaka+Lakmali!;" />
 </h1>
 
-<h4 align="center">I am a 2nd year undergraduate at Faculty of computing,Sabaragamuwa University Of Sri Lanka My experience learning to code has been dynamic, filled with engaging projects and a dedication to lifelong learning. Even though I'm still improving, I'm excited to take on new challenges and have a growing interest in Quality assurance fieled .I’m looking to collaborate on API Testing, Selenium, Automation Frameworks</h4>
+<h4 align="center">I am a 2nd year undergraduate at Faculty of computing,Sabaragamuwa University Of Sri Lanka My experience learning to code has been dynamic, filled with engaging projects and a dedication to lifelong learning. I have a growing interest in Quality assurance fieled And mobile app development.I’m looking to collaborate on API Testing, Selenium, Automation Frameworks</h4>
 
 <br/>
 
