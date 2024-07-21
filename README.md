@@ -35,7 +35,14 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,mongodb" /><br>
 <img src="https://skillicons.dev/icons?i=react,html,css,java,c,laravel,php"/><br>
-<img src="https://skillicons.dev/icons?i=selenium,postman"/><br>
+<img src="https://skillicons.dev/icons?i=selenium,postman,maven"/><br>
+
+
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
+
+
+
 
 
 
